@@ -2,7 +2,8 @@ name: Twister
 description: a powerful jekyll theme
 #url: #place url
 #baseurl: #place folder name if site is served in subfolder
-url: http://experiences.github.io
+#url: http://experiences.github.io
+url: http://liuchuke.com
 #baseurl: /test
 
 permalink: /:title/
