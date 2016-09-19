@@ -1,0 +1,20 @@
+menu:
+    首页: /
+    我的: /archives/
+    微博: http://weibo.com/
+    Rss: /atom.xml
+
+favicon: /favicon.png
+logo: /favicon.png
+
+# Comment
+# e.g disqus: seansun
+# disqus:
+duoshuo: experience
+
+# Analytics
+# google-analytics:
+# ga: UA-65933410-1
+
+# Copyright Infomation
+startyear: 2015
