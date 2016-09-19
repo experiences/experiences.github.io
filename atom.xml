@@ -4,9 +4,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="http://mogigua.xyz/"/>
   <updated>2016-09-18T06:00:24.000Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>http://mogigua.xyz/</id>
   
   <author>
     <name>Experiences</name>
@@ -17,8 +17,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2016/09/18/hello-world/"/>
-    <id>http://yoursite.com/2016/09/18/hello-world/</id>
+    <link href="http://mogigua.xyz/2016/09/18/hello-world/"/>
+    <id>http://mogigua.xyz/2016/09/18/hello-world/</id>
     <published>2016-09-18T06:00:24.000Z</published>
     <updated>2016-09-18T06:00:24.000Z</updated>
     
