@@ -68,6 +68,13 @@ theme: apollo
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-     type: git
-     repo: git@github.com:experiences/experiences.github.io.git
-     branch: master
+  - type: git
+    repo: git@github.com:experiences/experiences.github.io.git
+    branch: master
+  - type: rsync
+    host: digitalocean
+    user: root
+    root: /root/blog/
+    delete: true
+    verbose: true
+    ignore_errors: false
