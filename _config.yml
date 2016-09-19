@@ -74,7 +74,7 @@ deploy:
   - type: rsync
     host: digitalocean
     user: root
-    root: /root/blog/
+    root: /var/www/blog/
     delete: true
     verbose: true
     ignore_errors: false
